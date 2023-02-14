@@ -13,8 +13,50 @@ Here are some ideas to get you started:
 
 Let's keep in touch. 
 
+## Skills
+
+- Flutter
+- Java (Android, Java EE, Maven, Spring Core, Spring MVC, Spring Boot)
+- Firebase
+- Python (Supervised Learning, openCV)
+
+
+
+## Work Experience
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+|  Flutter Developer  | [@Fortmindz](#) | Dec 2022 - Present |
+|  Java Developer Trainee | [@Cognizant](#) | Apr 2022 - July 2022 |
+|  App Developer | [@YOU ARE AWESOME](#) | Aug 2021 - Nov 2021 |
+| Penetration Tester | [@TCS iON](#) | Jun 2020 - Jul 2020 |
+
+
+## VOLUNTEER/COMMUNITY EXPERIENCE
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+|  App Developer  | [@Ureckon](#) | Nov 2021 - Feb 2022 |
+|  IEEE Core Researcher | [@UEM](#) | Jul 2021 - Oct 2021 |
+
+
+### 🏆🏆 Achievement 🏆🏆
+<ul>
+<li>Certified as the Digital Tek Knight (JAVA) by Cognizant for being one of the top performers in the Digital Nurture Programme.</li>
+</ul>  
+
+
+### Social Links
+<p align="center">
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sneha2407) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sneha--biswas/) 
+
+
+</p>
 
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 --!>
